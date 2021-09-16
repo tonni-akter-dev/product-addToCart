@@ -1,0 +1,14 @@
+.input-field{
+    border-bottom: 3px solid #DB6400;
+}
+.orange{
+    background-color: #DB6400;
+    color: white;
+}
+.purple{
+    background-color: #B20191;
+    color: white;
+}
+#cart-icon ,.text{
+    color: #DB6400;
+}
